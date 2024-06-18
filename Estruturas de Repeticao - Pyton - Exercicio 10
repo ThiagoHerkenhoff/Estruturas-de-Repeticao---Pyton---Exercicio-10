@@ -1,0 +1,5 @@
+# 10 - Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
+
+soma = sum(range(2, 101, 2))
+
+print(f"A soma dos 50 primeiros valores pares é de: {soma}")
